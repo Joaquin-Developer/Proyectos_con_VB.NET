@@ -1,0 +1,9 @@
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\bin\Debug\Modelo_Empleados.dll
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\bin\Debug\Modelo_Empleados.pdb
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\bin\Debug\Modelo_Empleados.xml
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\obj\Debug\Modelo_Empleados.vbprojAssemblyReference.cache
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\obj\Debug\Modelo_Empleados.Resources.resources
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\obj\Debug\Modelo_Empleados.vbproj.GenerateResource.cache
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\obj\Debug\Modelo_Empleados.dll
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\obj\Debug\Modelo_Empleados.xml
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\Modelo_Empleados\obj\Debug\Modelo_Empleados.pdb

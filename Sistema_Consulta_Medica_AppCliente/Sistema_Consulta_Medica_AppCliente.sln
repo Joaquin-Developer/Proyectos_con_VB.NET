@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sistema_Consulta_Medica_AppCliente", "GUI_Alto_Nivel_VB\Sistema_Consulta_Medica_AppCliente.vbproj", "{A6AAEF68-D4E9-4F2C-B9FE-E472F3312B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AAEF68-D4E9-4F2C-B9FE-E472F3312B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AAEF68-D4E9-4F2C-B9FE-E472F3312B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AAEF68-D4E9-4F2C-B9FE-E472F3312B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AAEF68-D4E9-4F2C-B9FE-E472F3312B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52335178-B44A-4B0F-B24C-9EBB7A8FEC26}
+	EndGlobalSection
+EndGlobal

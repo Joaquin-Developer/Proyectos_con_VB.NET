@@ -1,0 +1,14 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.FormPrincipal.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.Formulario1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.Formulario2.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\bin\Debug\Sistema_Consulta_Medica_AppCliente.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\bin\Debug\Sistema_Consulta_Medica_AppCliente.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\bin\Debug\Sistema_Consulta_Medica_AppCliente.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\bin\Debug\Sistema_Consulta_Medica_AppCliente.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\GUI_Alto_Nivel_VB\GUI_Alto_Nivel_VB\obj\Debug\Sistema_Consulta_Medica_AppCliente.pdb

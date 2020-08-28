@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\bin\Debug\CambioMonedas.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\bin\Debug\CambioMonedas.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\bin\Debug\CambioMonedas.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\bin\Debug\CambioMonedas.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\CambioMonedas\CambioMonedas\obj\Debug\CambioMonedas.pdb

@@ -1,0 +1,13 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\bin\Debug\netcoreapp3.1\Ejercicio_1_POO.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\bin\Debug\netcoreapp3.1\Ejercicio_1_POO.deps.json
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\bin\Debug\netcoreapp3.1\Ejercicio_1_POO.runtimeconfig.json
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\bin\Debug\netcoreapp3.1\Ejercicio_1_POO.runtimeconfig.dev.json
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\bin\Debug\netcoreapp3.1\Ejercicio_1_POO.dll
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\bin\Debug\netcoreapp3.1\Ejercicio_1_POO.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\obj\Debug\netcoreapp3.1\Ejercicio_1_POO.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\obj\Debug\netcoreapp3.1\Ejercicio_1_POO.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\obj\Debug\netcoreapp3.1\Ejercicio_1_POO.AssemblyInfoInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\obj\Debug\netcoreapp3.1\Ejercicio_1_POO.AssemblyInfo.vb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\obj\Debug\netcoreapp3.1\Ejercicio_1_POO.dll
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\obj\Debug\netcoreapp3.1\Ejercicio_1_POO.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio_1_POO\Ejercicio_1_POO\obj\Debug\netcoreapp3.1\Ejercicio_1_POO.genruntimeconfig.cache

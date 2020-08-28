@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\bin\Debug\Practico1_Ejercicio9.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\bin\Debug\Practico1_Ejercicio9.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\bin\Debug\Practico1_Ejercicio9.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\bin\Debug\Practico1_Ejercicio9.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_Practico1_DeLosSantos\Practico1_Ejercicio9\Practico1_Ejercicio9\obj\Debug\Practico1_Ejercicio9.pdb

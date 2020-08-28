@@ -1,0 +1,15 @@
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.vbprojAssemblyReference.cache
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.frmEmpleados.resources
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.Resources.resources
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.vbproj.GenerateResource.cache
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\bin\Debug\POO_VisualBasic.NET.exe.config
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\bin\Debug\POO_VisualBasic.NET.exe
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\bin\Debug\POO_VisualBasic.NET.pdb
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\bin\Debug\POO_VisualBasic.NET.xml
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\bin\Debug\Modelo_Empleados.dll
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\bin\Debug\Modelo_Empleados.pdb
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\bin\Debug\Modelo_Empleados.xml
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.vbproj.CopyComplete
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.exe
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.xml
+C:\Users\Richard\source\repos\POO_VisualBasic.NET\POO_VisualBasic.NET\obj\Debug\POO_VisualBasic.NET.pdb

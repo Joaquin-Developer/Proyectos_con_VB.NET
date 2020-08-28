@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\bin\Debug\Listas_en_VB_ListBox.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\bin\Debug\Listas_en_VB_ListBox.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\bin\Debug\Listas_en_VB_ListBox.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\bin\Debug\Listas_en_VB_ListBox.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Listas_en_VB_ListBox\Listas_en_VB_ListBox\obj\Debug\Listas_en_VB_ListBox.pdb

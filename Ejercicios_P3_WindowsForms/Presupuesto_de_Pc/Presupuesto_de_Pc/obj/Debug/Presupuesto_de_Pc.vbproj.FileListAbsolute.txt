@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\bin\Debug\Presupuesto_de_Pc.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\bin\Debug\Presupuesto_de_Pc.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\bin\Debug\Presupuesto_de_Pc.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\bin\Debug\Presupuesto_de_Pc.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Presupuesto_de_Pc\Presupuesto_de_Pc\obj\Debug\Presupuesto_de_Pc.pdb

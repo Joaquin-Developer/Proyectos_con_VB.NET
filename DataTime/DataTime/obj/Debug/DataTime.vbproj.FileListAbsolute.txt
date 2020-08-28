@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\bin\Debug\DataTime.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\bin\Debug\DataTime.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\bin\Debug\DataTime.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\bin\Debug\DataTime.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\DataTime\DataTime\obj\Debug\DataTime.pdb

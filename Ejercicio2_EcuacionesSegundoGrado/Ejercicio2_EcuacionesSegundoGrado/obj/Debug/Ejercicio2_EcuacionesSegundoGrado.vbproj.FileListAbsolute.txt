@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\bin\Debug\Ejercicio2_EcuacionesSegundoGrado.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\bin\Debug\Ejercicio2_EcuacionesSegundoGrado.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\bin\Debug\Ejercicio2_EcuacionesSegundoGrado.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\bin\Debug\Ejercicio2_EcuacionesSegundoGrado.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicio2_EcuacionesSegundoGrado\Ejercicio2_EcuacionesSegundoGrado\obj\Debug\Ejercicio2_EcuacionesSegundoGrado.pdb

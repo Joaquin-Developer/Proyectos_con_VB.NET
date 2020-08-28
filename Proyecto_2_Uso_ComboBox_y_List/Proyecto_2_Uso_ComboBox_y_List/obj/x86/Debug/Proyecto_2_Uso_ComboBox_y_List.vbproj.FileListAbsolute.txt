@@ -1,0 +1,9 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\bin\Debug\Proyecto_2_Uso_ComboBox_y_List.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\bin\Debug\Proyecto_2_Uso_ComboBox_y_List.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\bin\Debug\Proyecto_2_Uso_ComboBox_y_List.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\obj\x86\Debug\WindowsApplication1.Principal.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\obj\x86\Debug\Proyecto_2_Uso_ComboBox_y_List.vbproj.GenerateResource.Cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\obj\x86\Debug\Proyecto_2_Uso_ComboBox_y_List.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\obj\x86\Debug\Proyecto_2_Uso_ComboBox_y_List.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Proyecto_2_Uso_ComboBox_y_List\Proyecto_2_Uso_ComboBox_y_List\obj\x86\Debug\Proyecto_2_Uso_ComboBox_y_List.pdb

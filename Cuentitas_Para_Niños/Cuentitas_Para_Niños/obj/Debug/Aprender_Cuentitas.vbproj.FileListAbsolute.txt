@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\bin\Debug\Aprender_Cuentitas.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\bin\Debug\Aprender_Cuentitas.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\bin\Debug\Aprender_Cuentitas.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\bin\Debug\Aprender_Cuentitas.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Cuentitas_Para_Niños\Cuentitas_Para_Niños\obj\Debug\Aprender_Cuentitas.pdb

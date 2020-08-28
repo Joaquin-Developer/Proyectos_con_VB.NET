@@ -1,0 +1,13 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.deps.json
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.runtimeconfig.json
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.runtimeconfig.dev.json
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.dll
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.AssemblyInfoInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.AssemblyInfo.vb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.dll
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejercicios_P1_Introduccion\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.genruntimeconfig.cache

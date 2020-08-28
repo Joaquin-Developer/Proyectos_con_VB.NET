@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\bin\Debug\Practico1_Ejercicio8.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\bin\Debug\Practico1_Ejercicio8.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\bin\Debug\Practico1_Ejercicio8.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\bin\Debug\Practico1_Ejercicio8.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Practico1_Ejercicio8\Practico1_Ejercicio8\obj\Debug\Practico1_Ejercicio8.pdb

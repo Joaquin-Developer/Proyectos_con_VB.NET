@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\bin\Debug\login_con_lostFocus.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\bin\Debug\login_con_lostFocus.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\bin\Debug\login_con_lostFocus.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\bin\Debug\login_con_lostFocus.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.FormLogin.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\login_con_lostFocus\login_con_lostFocus\obj\Debug\login_con_lostFocus.pdb
